@@ -25,12 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yonro/memory-os-cli.git",
-    "directory": "extensions/vscode"
+    "url": "git+https://github.com/yonro/xmemo-vscode.git"
   },
-  "homepage": "https://xmemo.dev/product/mcp",
+  "homepage": "https://xmemo.dev",
   "bugs": {
-    "url": "https://github.com/yonro/memory-os-cli/issues"
+    "url": "https://github.com/yonro/xmemo-vscode/issues"
   },
   "main": "./dist/extension.js",
   "activationEvents": [

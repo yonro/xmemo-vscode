@@ -42,4 +42,5 @@ XMemo is user-owned. This extension sends MCP requests to `<baseUrl>/mcp`, authe
 
 - Website: https://xmemo.dev
 - Product: https://xmemo.dev/product/mcp
-- Issues: https://github.com/yonro/memory-os-cli/issues
+- CLI & Engine: https://github.com/yonro/memory-os-cli
+- Extension Issues: https://github.com/yonro/xmemo-vscode/issues
